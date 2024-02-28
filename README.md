@@ -1,3 +1,3 @@
-#Simple Shell Project.
+#Simple Shell Project.#
 
-##By Victor Adeyemo and Chimaobi Ubani as part of the ALX Team Project.
+##By Victor Adeyemo and Chimaobi Ubani as part of the ALX Team Project.##
