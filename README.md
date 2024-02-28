@@ -1,1 +1,3 @@
-Simple Shell Project, done by Victor Adeyemo and my partner Chima Obi as part of the ALX Team Project
+#Simple Shell Project.
+
+##By Victor Adeyemo and Chimaobi Ubani as part of the ALX Team Project.
