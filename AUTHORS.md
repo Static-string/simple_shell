@@ -1,5 +1,3 @@
-Chimaobi Ubani 
-https://github.com/WizTheRealist
+Chimaobi Ubani [Github](https://github.com/WizTheRealist)
 
-Victor Adeyemo
-https://github.com/Static-string
+Victor Adeyemo [Github](https://github.com/Static-string)
